@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=100&lines=Systems+%26+Infrastructure+Engineer;Building+Scalable+Cloud-Native+Systems;Space-Tech+%26+Satellite+Data+Pioneer" alt="Typing SVG" />
+</div>
+
+---
+
 ## 👋 Hi there, I'm Rohan!
 
 💻 **Systems & Infrastructure Engineer** passionate about designing **highly scalable systems**, **cloud-native architectures**, and building performant infrastructure that powers modern applications.
@@ -92,3 +98,15 @@
 - [📸 Instagram](https://www.instagram.com/rohan.d.a.s/)
 
 **I'm always open to discussing system design challenges, collaborating on infrastructure projects, exploring innovative cloud-native solutions, or talking about space-tech and satellite systems!**
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</div>
