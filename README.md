@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=100&lines=Systems+%26+Infrastructure+Engineer;Building+Scalable+Cloud-Native+Systems;Space-Tech+%26+Satellite+Data+Pioneer" alt="Typing SVG" />
+  <h1>🛰️ Systems & Infrastructure Engineer</h1>
+  <h3>Building Scalable Cloud-Native Systems | Space-Tech Pioneer | Satellite Data Expert</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohandass/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rohan.d.a.s/)
 </div>
 
 ---
@@ -92,21 +96,26 @@
 
 ---
 
-## 📫 Let's Connect!
-
-- [🔗 LinkedIn](https://www.linkedin.com/in/rohandass/)
-- [📸 Instagram](https://www.instagram.com/rohan.d.a.s/)
-
-**I'm always open to discussing system design challenges, collaborating on infrastructure projects, exploring innovative cloud-native solutions, or talking about space-tech and satellite systems!**
+<div align="center">
+  <h3>⚡ Tech Stack Badges</h3>
+  
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</div>
+## 📫 Let's Connect!
+
+**Feel free to reach out** — I'm always open to discussing system design challenges, collaborating on infrastructure projects, exploring innovative cloud-native solutions, or talking about space-tech and satellite systems!
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/rohandass/)
+- [📸 Instagram](https://www.instagram.com/rohan.d.a.s/)
